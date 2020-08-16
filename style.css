@@ -1,0 +1,128 @@
+body {
+    background: url('img/wall_intro_1.png') no-repeat center center fixed;
+    background-size: cover;
+  }
+
+
+.wrapper {
+  margin: 530px auto 0 auto;
+  max-width: 700px;
+}
+  a{
+    font-family: rift, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 25px;
+    color: #d6d6d6;
+  }
+
+  p {
+    font-family: clone-rounded-latin, sans-serif;
+    font-weight: 300;   
+    font-style: normal;
+    font-size: 15px;
+    color: #656565;
+  }
+
+  .card-deck {
+    padding-top: 150px;
+  }
+
+  .container {
+    padding-top: 70px;
+
+  }
+
+  h5 {
+    font-family: rift, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 30px;
+    color: #383838;
+  }
+
+  .btn{
+    background-color: #05A7BF;
+    font-family: rift, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 20px;
+    color: #ffffff;
+  }
+
+  .CoverText {
+    font-family: clone-rounded-latin, sans-serif;
+    font-weight: 300;   
+    font-style: normal;
+    font-size: 27px;
+    color: #656565;
+    text-align: center;
+  }
+
+  .MyName {
+    font-family: rift, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 55px;
+    color: #656565;
+    text-align: center;
+  }
+
+  .navbar-nav{
+    padding-top: 50px;
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+}
+
+.active a{
+  color: #ffffff;
+  text-decoration-line: underline;
+  text-decoration-color: white;
+}
+
+  .nav-item > a:hover {
+    color: white;
+    text-decoration-line: underline;
+    text-decoration-color: white;
+  }
+
+  #link{
+    font-family: prohibition, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 20px;
+  }
+
+  p {
+    font-family: clone-rounded-latin, sans-serif;
+    font-weight: 300;   
+    font-style: normal;
+  }
+
+  h1{
+    font-family: rift, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 70px;
+    color: #656565;
+  }
+
+  label {
+    font-family: clone-rounded-latin, sans-serif;
+    font-weight: 300;   
+    font-style: normal;
+    font-size: 15px;  
+  }
+
+  #gallery{
+    margin:10px;
+}
+
+  #sticky-footer {
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+    height: 60px;
+    }
+    
